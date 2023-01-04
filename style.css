@@ -1,0 +1,21 @@
+h3{
+    font-size: 30px;
+    color: rgb(9, 3, 3);
+    background-color: #8a8ade;
+    height: 35px;
+    width: 75px;
+    font-family: 'Franklin Gothic Medium', sans-serif;
+}
+
+button{
+    color: black;
+}
+
+.btn:hover
+{
+    background-color: rgb(145, 155, 234);
+}
+
+body{
+    background-size: cover;
+}
